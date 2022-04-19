@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abdurashid-dev
 - 👀 I’m interested in football
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in email abdurashiddev@gmail.com
 
 <!---
