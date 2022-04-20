@@ -76,7 +76,7 @@
 
 ## Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Abdurashid-dev/">
     <img src="https://komarev.com/ghpvc/?username=Abdurashid-dev">
 </a>
 <a href="https://github.com/Abdurashid-dev?tab=followers"><img src="https://img.shields.io/github/followers/Abdurashid-dev?label=Followers&style=social" alt="GitHub Badge"></a>
