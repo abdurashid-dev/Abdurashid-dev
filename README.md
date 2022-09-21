@@ -1,1 +1,1 @@
-Fullstack Laravel developer
+Laravel developer
